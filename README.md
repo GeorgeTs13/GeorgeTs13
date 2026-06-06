@@ -13,7 +13,6 @@
 - Git & GitHub
 - Visual Studio Code
 - Comfortable with Terminal
-- Arch Linux 
           
 ---
 
