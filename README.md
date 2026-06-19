@@ -2,8 +2,8 @@
 
 ## About Me
 - Software & System Learner.
-- Focused on Pyhton, Web Development and Linux.
-- Intersted to know how something works instead of just using it.
+- Focused on Python, Web Development and Linux.
+- Interested to know how something works instead of just using it.
 
 ---
 
